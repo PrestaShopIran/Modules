@@ -1,0 +1,3 @@
+[submodule "bankmellat"]
+	path = bankmellat
+	url = https://github.com/Danoosh/bankmellat.git
