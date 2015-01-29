@@ -1,3 +1,6 @@
 [submodule "bankmellat"]
 	path = bankmellat
 	url = https://github.com/Danoosh/bankmellat.git
+[submodule "ibazpardakht"]
+	path = ibazpardakht
+	url = https://bitbucket.org/danoosh/ibazpardakht.git
